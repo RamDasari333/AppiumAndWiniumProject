@@ -79,7 +79,7 @@ public class AppiumTest {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 		String sdkPath = "/Applications/adt-bundle-mac-x86_64-20140702/sdk/";// or
-																				// for
+																				// for w
 																				// windows
 																				// D:/Android/adt-bundle-windows-x86_64-20140702/sdk/
 		String adbPath = sdkPath + "platform-tools" + File.separator + "adb";
