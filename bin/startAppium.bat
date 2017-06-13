@@ -1,0 +1,2 @@
+"C:\Users\nisha.mistry\Basic\server\node.exe" "C:/Program Files (x86)/Appium/node_modules/appium/bin/Appium.js"
+cmd /c "C:/Program Files (x86)/Appium/node.exe" "C:/Program Files (x86)/Appium/node_modules/appium/bin/Appium.js" --address 127.0.0.1 --chromedriver-port 9516 --bootstrap-port 4725 --selendroid-port 8082 --no-reset --local-timezone
